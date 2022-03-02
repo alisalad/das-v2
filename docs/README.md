@@ -3,7 +3,7 @@ home: true
 title: Home
 heroImage: /images/somalia.png
 actions:
-  - text: Get Started
+  - text: Dastuurka KMG
     link: /guide/getting-started.html
     type: primary
   - text: Introduction
